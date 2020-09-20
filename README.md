@@ -5,7 +5,4 @@ incomplete information and limited computational resources. The course will cove
 decision processes, reinforcement learning, planning, and function approximation (online
 supervised learning). The course will take an information-processing approach to the concept of
 mind and briefly touch on perspectives from psychology, neuroscience, and philosophy.
-The course will use a recently created MOOC on Reinforcement Learning, created by the
-Instructors of this course. Much of the lecture material and assignments will come from the
-MOOC. In-class time will be largely spent on discussion and thinking about the material, with
-some supplementary lectures.
+
